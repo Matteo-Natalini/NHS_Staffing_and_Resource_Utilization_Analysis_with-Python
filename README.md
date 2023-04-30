@@ -1,4 +1,4 @@
-# DA201_Assignment.
+# DA201_Assignment
 ## IMPORT AND EXPLORE THE DATA
 After importing the 3 datasets the data has been sense checked and no errors or empty cells are in the files.
 The national_categories dataset is the largest and is the one I used to perform the first exploration. 
