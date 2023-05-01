@@ -9,3 +9,9 @@ I found the top 5 locations per number of records which are:
 3. Devon, 
 4. Hampshire and Isle Of Wight, 
 5. North East London.
+
+## ANALYSE THE DATA
+The data types of the date columns have been uniformated and changed in a datetime format.
+With the min() and max() formulas it has been possible to identify the oldest and most recent appointments in the data frames.
+The data goes from August 2021 to June 2022 and NC dataset is the one that holds the most data.
+The most we the most appointments was November 2021 with 30,405.070 appointments.
